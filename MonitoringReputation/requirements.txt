@@ -1,0 +1,13 @@
+# Essential dependencies
+requests
+pandas
+nltk
+gensim
+transformers
+torch
+scikit-learn
+
+# Optional (if needed for visualization)
+matplotlib
+seaborn
+wordcloud
